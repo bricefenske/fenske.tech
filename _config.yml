@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Setup
 title: Dark Poole
 url: https://getpoole.com
@@ -48,3 +49,6 @@ nav:
     url: /about
 
 theme: jekyll-theme-slate
+=======
+theme: jekyll-theme-minimal
+>>>>>>> Stashed changes
